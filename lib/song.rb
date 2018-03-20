@@ -9,3 +9,5 @@ class Song
     @@count += 1
   end
 end
+
+binding.pry
