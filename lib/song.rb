@@ -8,5 +8,3 @@ class Song
     @name, @artist, @genre = song_name, song_artist, song_genre
   end
 end
-
-binding.pry
